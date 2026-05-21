@@ -6,6 +6,7 @@ Performed data cleaning, KPI analysis, churn segmentation, and retention analysi
 
 The dashboard helps uncover key business insights such as high churn among month-to-month contract users, the impact of payment methods on retention, and customer behavior across different subscription plans. Included actionable recommendations to improve customer retention, reduce customer loss, and enhance long-term customer engagement.
 
-Tools Used: Tableau, Excel, Kaggle Dataset
+Tools Used: Tableau, Excel
 
 Skills Gained: Churn Analysis, Retention Analysis, Cohort Visualization, KPI Dashboard Design, Data Storytelling, Business Intelligence
+https://public.tableau.com/app/profile/jahnavi.dadala/viz/customerchurnanalysis_17793561848790/customerchurndashboard?publish=yes
